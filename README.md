@@ -1,9 +1,8 @@
-#FURAT READING NOTES
+# **FURAT READING NOTES**
 
-[Github page] (https://furatmalkawi29.github.io/reading-notes/)
-
+![](https://thumbs.dreamstime.com/b/geek-glasses-graphic-design-template-vector-isolated-logo-icon-eye-nerd-face-hair-spectacles-hipster-sunglasses-character-158168884.jpg)
 | Reads                                                                      | Description |
 | -------------------------------------------------------------------------- | ----------- |
-| [Home] (https://furatmalkawi29.github.io/reading-notes/)                   | Title       |
-| [Read 02a] (https://furatmalkawi29.github.io/reading-notes/growth_mindset) | Text        |
+| [Main](https://furatmalkawi29.github.io/reading-notes/)                   | Main Page     |
+| [Read 02](https://furatmalkawi29.github.io/reading-notes/growth_mindset) | Second Read        |
 
