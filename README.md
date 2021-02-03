@@ -1,4 +1,14 @@
-<div align=right style="font-size:40px;"> <h1> <b> FURAT READING NOTES </b> </h1> </div>
+<div align=right style="font-size:30px;"> <h1> <b> FURAT READING NOTES </b> </h1> </div>
+
+body{
+    font-family: helvetica, arial, freesans, clean, sans-serif;
+    color: #333;
+    background-color: red;
+    border-color: #999999;
+    border-width: 2px;
+    line-height: 1.5;
+    text-align:left;
+}
 
 ![](https://thumbs.dreamstime.com/b/geek-glasses-graphic-design-template-vector-isolated-logo-icon-eye-nerd-face-hair-spectacles-hipster-sunglasses-character-158168884.jpg)
                           
