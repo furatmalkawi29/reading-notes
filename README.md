@@ -2,7 +2,7 @@
 <p><br></p>
 Biomedical Informatics Engineering Graduate . Interested in IT field and Web applications 
 <p><br></p>
-![](https://thumbs.dreamstime.com/b/geek-glasses-graphic-design-template-vector-isolated-logo-icon-eye-nerd-face-hair-spectacles-hipster-sunglasses-character-158168884.jpg)
+![]([[https://[thumbs.dreamstime.com/b/geek-glasses-graphic-design-template-vector-isolated-logo-icon-eye-nerd-face-hair-spectacles-hipster-sunglasses-character-158168884.jpg](https://i.redd.it/4bageqqku4651.jpg)](https://i.redd.it/4bageqqku4651.jpg)](https://i.redd.it/4bageqqku4651.jpg))
                           
 
 | Reads     | Date        | Link        |
