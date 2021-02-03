@@ -19,8 +19,9 @@
 
  * ## Clients create mirrored repositories .
  * ## Works on LVC and CVC drawbacks:
-   ### 1. Hard disk corruption 
-   ### 2. Server failure .
+   ### 1.Hard disk corruption 
+
+   ### 2.Server failure .
 
 # ____________________________
 
@@ -35,3 +36,9 @@
  * committed : Changed and saved .
  * modified : Changed but not saved
  * staged.
+
+# **Remotes** 
+
+ ## By running the git remote command, you can view the short names, such as “origin,” of all specified remote handles.
+
+ ## By using git remote -v, you can view all the remote URLs next to their corresponding short names.
