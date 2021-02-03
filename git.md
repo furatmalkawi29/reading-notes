@@ -1,4 +1,4 @@
-# Version Control Systems (VCS) 
+# **Version Control Systems (VCS)** 
 
 * ###  Record changes .
 * ### Allows tracking modifications .
@@ -7,6 +7,7 @@
 # 1. Local Version Control
  * ### On the hard disk .
 # ____________________________
+
 # 2. Centralized Version Control 
 
  * ### Allows collaboration within a developer team .
