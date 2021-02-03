@@ -1,6 +1,6 @@
 <div align=right style="font-size:30px; background-color:pink;"> <h1> <b> FURAT READING NOTES </b> </h1> </div>
 <p><br></p>
-Biomedical Engineering Graduate . Interested in IT field and Web applications 
+Biomedical Informatics Engineering Graduate . Interested in IT field and Web applications 
 <p><br></p>
 ![](https://thumbs.dreamstime.com/b/geek-glasses-graphic-design-template-vector-isolated-logo-icon-eye-nerd-face-hair-spectacles-hipster-sunglasses-character-158168884.jpg)
                           
