@@ -14,34 +14,81 @@
 ## 1. Headers
 <p><br></p>
 
-` # Hello ` 
-<p><br></p>
-# Hello
+```
+# Hello 
 
+```
+# -------------------
 
 ## 2. Emphasis
 <p><br></p>
+
 ```
 *Hello*
 **Hello**
 ***Heloo***
 ```
-<p><br></p>
-*Hello*
-**Hello**
-***Heloo***
+# -------------------
+
 
 ## 3. Lists
 <p><br></p>
 
+```
+* Hello 1
+* Hello 2
+----------
+1. Hello 1
+2. Hello 2
+```
+# Hello 
+
+``` 
+
+```
+# -------------------
+
 ## 4. Images
 <p><br></p>
+
+```
+! [mypic](pic.jpg)
+
+```
+# -------------------
 
 ## 5. Links
 <p><br></p>
 
+```
+[mylink](https://mylink/) 
+
+```
+# -------------------
+
 ## 6. Blockquotes
 <p><br></p>
 
-## 7. Inline code
+```
+this is 
+> a good qout 
+
+```
+# -------------------
+
+# ***Tables***
 <p><br></p>
+
+```
+Greeting1 | Greeting2
+----------|------------
+hello1    | hello2
+h1 | hi1
+
+```
+# -------------------
+
+# ***Automatic linking for URLs***
+
+ 
+### Any URL (like http://www.github.com/) will be automatically converted into a clickable link.
