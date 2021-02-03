@@ -14,7 +14,6 @@
 ## 1. Headers
 <p><br></p>
 
-<<<<<<< HEAD
 ```
 # Hello 
 
@@ -24,34 +23,17 @@
 ## 2. Emphasis
 <p><br></p>
 
-=======
-` # Hello ` 
-<p><br></p>
-# Hello
-
-
-## 2. Emphasis
-<p><br></p>
->>>>>>> c2e77fc41ae255a6abdd1b900d921a13d56fbf22
 ```
 *Hello*
 **Hello**
 ***Heloo***
 ```
-<<<<<<< HEAD
 # -------------------
 
-=======
-<p><br></p>
-*Hello*
-**Hello**
-***Heloo***
->>>>>>> c2e77fc41ae255a6abdd1b900d921a13d56fbf22
 
 ## 3. Lists
 <p><br></p>
 
-<<<<<<< HEAD
 ```
 * Hello 1
 * Hello 2
@@ -109,17 +91,4 @@ h1 | hi1
 # ***Automatic linking for URLs***
 
  
-### Any URL (like http://www.github.com/) will be automatically converted into a clickable link.
-=======
-## 4. Images
-<p><br></p>
-
-## 5. Links
-<p><br></p>
-
-## 6. Blockquotes
-<p><br></p>
-
-## 7. Inline code
-<p><br></p>
->>>>>>> c2e77fc41ae255a6abdd1b900d921a13d56fbf22
+### Any URL [URL](http://www.github.com/) will be automatically converted into a clickable link.
