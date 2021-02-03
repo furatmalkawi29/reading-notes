@@ -24,23 +24,23 @@
 
 # ____________________________
 
-  # **What is Git**?
+  # **What is Git?**
 
 ## Git is a DVCS (Distributed Version Controller System) that stores changes on files.
 
-  ## 1. Snapshots
+  ## 1.Snapshots
 
-  ### * Changes called "commits" 
+  ### Changes called "commits" 
   
 <p><br></p>
 
- ## 2. Local operations
+ ## 2.Local operations
 
-  ### * Git depends on local operations
+  ### Git depends on local operations
 
-<p><br></p>
+# ____________________________
 
- ## 3. Tracking Changes
+ ## 3.Tracking Changes
 
 ### * Every single change is tracked by Git.
 
