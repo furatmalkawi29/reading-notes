@@ -12,29 +12,36 @@
 
  * ### Allows collaboration within a developer team .
  
- # ____________________________
   * ### Single server accessed by various clients. 
   
 
 # 3. Distributed Version Control
-# ____________________________
+
  * ## Clients create mirrored repositories .
  * ## Works on LVC and CVC drawbacks:
    ### 1. Hard disk corruption 
    ### 2. Server failure .
+
 # ____________________________
-  # What is Git?
+
+  # **What is Git**?
+
 ## Git is a DVCS (Distributed Version Controller System) that stores changes on files.
+
   ## 1. Snapshots
-  ### * Changes called "commits" .
+
+  ### * Changes called "commits" 
   
 <p><br></p>
 
  ## 2. Local operations
-  ### * Git depends on local operations .
+
+  ### * Git depends on local operations
+
 <p><br></p>
 
  ## 3. Tracking Changes
+
 ### * Every single change is tracked by Git.
 
 <p><br></p>
@@ -42,6 +49,7 @@
 
 ## 4. Loss of Data
 ### * Git minimizes the possibility of accidentally losing data.
+
 <p><br></p>
 
 ## 5. States
