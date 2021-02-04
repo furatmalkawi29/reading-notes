@@ -8,7 +8,7 @@ Biomedical Informatics Engineering Graduate . Interested in IT field and Web app
 | Reads     | Date        | Link        |
 | :-------- |:-----------: |:----------: |
 | **Home**  |   -    | [**Go Back Home!**](https://furatmalkawi29.github.io/reading-notes/) |
-|     **Read: 01 - The Coder's Computer**    | *1-Feburay*  | [***Choosing A Text Editor***](https://furatmalkawi29.github.io/reading-notes/text.md) |
+|     **Read: 01 - The Coder's Computer**    | *1-Feburay*  | [***Choosing A Text Editor***](https://furatmalkawi29.github.io/reading-notes/choose.md) |
 | **Lab: 02a - Learning Markdown** | *2-Feburay* | [***How you can benefit from a growth mindset?***](https://furatmalkawi29.github.io/reading-notes/growth_mindset) |
 | **Read: 02b - Revisions and the Cloud** | *2-Feburay* | [***Git Tutorial: A Comprehensive Guide***](https://furatmalkawi29.github.io/reading-notes/git) |
 | **Read: 02a -Learning Markdown** | *2-Feburay* | [***Masternig Markdown***](https://furatmalkawi29.github.io/reading-notes/markdown) |
