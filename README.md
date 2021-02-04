@@ -12,3 +12,4 @@ Biomedical Informatics Engineering Graduate . Interested in IT field and Web app
 | **Lab: 02a - Learning Markdown** | *2-Feburay* | [***How you can benefit from a growth mindset?***](https://furatmalkawi29.github.io/reading-notes/growth_mindset) |
 | **Read: 02b - Revisions and the Cloud** | *2-Feburay* | [***Git Tutorial: A Comprehensive Guide***](https://furatmalkawi29.github.io/reading-notes/git) |
 | **Read: 02a -Learning Markdown** | *2-Feburay* | [***Masternig Markdown***](https://furatmalkawi29.github.io/reading-notes/markdown) |
+| ***Read: 03 - Structure web pages with HTML*** | *4-Feburay* | [**Book summery**](https://furatmalkawi29.github.io/reading-notes/htmlread) |
