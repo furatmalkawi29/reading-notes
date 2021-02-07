@@ -13,3 +13,4 @@ Biomedical Informatics Engineering Graduate . Interested in IT field and Web app
 | **Read: 02b - Revisions and the Cloud** | *2-Feburay* | [***Git Tutorial: A Comprehensive Guide***](https://furatmalkawi29.github.io/reading-notes/git) |
 | **Read: 02a -Learning Markdown** | *2-Feburay* | [***Masternig Markdown***](https://furatmalkawi29.github.io/reading-notes/markdown) |
 | ***Read: 03 - Structure web pages with HTML*** | *4-Feburay* | [**Book summery**](https://furatmalkawi29.github.io/reading-notes/htmlread) |
+| ***Read: 04 - Programming with JavaScript*** | *7-Feburay* | [**Book summery**](https://furatmalkawi29.github.io/reading-notes/htmlread) |
