@@ -26,7 +26,7 @@ You can use flowcharts to work out how the tasks fit together. The flowcharts sh
 
 <br>
 
-![](img1.png)
+![](img1.PNG)
 
 3: CODE EACH STEP
 
@@ -90,7 +90,7 @@ Functions let you group a series of statements together to perform a specific ta
 
   <br>
   
-  ![](img3.png)
+  ![](img3.PNG)
 
    <br>
 
@@ -98,7 +98,7 @@ Functions let you group a series of statements together to perform a specific ta
 
  <br>
   
-  ![](img4.png)
+  ![](img4.PNG)
 
    <br>
 
@@ -106,7 +106,7 @@ Functions let you group a series of statements together to perform a specific ta
 
  <br>
   
-  ![](img5.png)
+  ![](img5.PNG)
 
    <br>
 
@@ -114,7 +114,7 @@ Functions let you group a series of statements together to perform a specific ta
  
  <br> 
   
-  ![](img6.png)
+  ![](img6.PNG)
 
    <br>
 
