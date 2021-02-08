@@ -23,6 +23,7 @@ should be able to see them).
 ## You can specify any color in CSS in one of three ways:
 
 ![](l6.1.png)
+
 <br>
 
 # 1.RGB Values:
