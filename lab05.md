@@ -27,7 +27,7 @@
 
 ## Here are the common Logical operators in programming, they usually return True or False
 
-![](img11.png)
+![](img11.PNG)
 
 # 1.|| (Logical OR)
 
