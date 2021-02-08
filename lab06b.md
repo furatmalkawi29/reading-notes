@@ -12,7 +12,7 @@ should be able to see them).
 
 [Paletton.com](https://paletton.com/) 
 
-![](l6.3.png)
+![alt](l6.3.png)
 
  
 
@@ -22,7 +22,7 @@ should be able to see them).
 
 ## You can specify any color in CSS in one of three ways:
 
-![](l6.1.png)
+![alt](l6.1.png)
 
 <br>
 
@@ -57,7 +57,7 @@ for that box.
 background color, then the
 background is transparent.
 
-![](l6.2.png)
+![alt](l6.2.png)
 
 <br> <br>
 
@@ -76,7 +76,7 @@ background is transparent.
 
 * Lightness is also a percentage value, 0% is black, and 100% is white.
 
-![](l6.4.png)
+![alt](l6.4.png)
 
 <br> <br>
 
