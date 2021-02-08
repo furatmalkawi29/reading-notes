@@ -15,4 +15,4 @@ Biomedical Informatics Engineering Graduate . Interested in IT field and Web app
 | ***Read: 03 - Structure web pages with HTML*** | *4-Feburay* | [**Book summery**](https://furatmalkawi29.github.io/reading-notes/htmlread) |
 | ***Read: 04 - Programming with JavaScript*** | *7-Feburay* | [**Book summery**](https://furatmalkawi29.github.io/reading-notes/js-read) |
 | ***Read: 05 - Operators and Loops*** | *8-Feburay* | [**Book summery**](https://furatmalkawi29.github.io/reading-notes/lab05) |
-| ***Read: 06b - Design web pages with CSS*** | *9-Feburay* | [**Book summery**](https://furatmalkawi29.github.io/reading-notes/lab06b-css) |
+| ***Read: 06b - Design web pages with CSS*** | *9-Feburay* | [**Book summery**](https://furatmalkawi29.github.io/reading-notes/lab06b) |
