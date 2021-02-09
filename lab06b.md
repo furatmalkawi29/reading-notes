@@ -23,7 +23,7 @@ should be able to see them).
 
 ## You can specify any color in CSS in one of three ways:
 
-![alt](l6.1.png)
+![alt](l61.png)
 
 <br>
 
