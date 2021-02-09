@@ -13,7 +13,7 @@ should be able to see them).
 
 [Paletton.com](https://paletton.com/)
 
-![alt](l6.3.png)
+![alt](l63.PNG)
 
  
 
