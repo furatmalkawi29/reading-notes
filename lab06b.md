@@ -23,7 +23,7 @@ should be able to see them).
 
 ## You can specify any color in CSS in one of three ways:
 
-![alt](l61.png)
+![alt](l61.PNG)
 
 <br>
 
@@ -59,7 +59,7 @@ for that box.
 background color, then the
 background is transparent.
 
-![alt](l6.2.png)
+![alt](l62.PNG)
 
 <br> <br>
 
@@ -78,7 +78,7 @@ background is transparent.
 
 * Lightness is also a percentage value, 0% is black, and 100% is white.
 
-![alt](l6.4.png)
+![alt](l64.png)
 
 <br> <br>
 
