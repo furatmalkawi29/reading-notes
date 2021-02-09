@@ -1,6 +1,7 @@
 # Understanding Color
+
 * Every color on a computer screen is created by mixing amounts of red,
-green, and blue. To find the color you want 
+green, and blue. To find the color you want
 
 * Computer monitors are made
 up of thousands of tiny squares
@@ -8,9 +9,9 @@ called pixels (if you look very
 closely at your monitor you
 should be able to see them).
 
-## You can use a color picker.
+## You can use a color picker
 
-[Paletton.com](https://paletton.com/) 
+[Paletton.com](https://paletton.com/)
 
 ![alt](l6.3.png)
 
@@ -18,7 +19,7 @@ should be able to see them).
 
 # Foreground Color (color)
 
-## Specify the color of text inside an element. 
+## Specify the color of text inside an element . 
 
 ## You can specify any color in CSS in one of three ways:
 
@@ -36,13 +37,14 @@ should be able to see them).
 
 ### represent the amount of red,green and blue in a color in hexadecimal code
 
-# 3.color names
+# 3\. color names
 
 ### There are 147 predefined color
+
 names that are recognized
 by browsers , they are very limited in number.
 
-<br> <br>
+<br>
 
 # Background Color (background-color)
 
