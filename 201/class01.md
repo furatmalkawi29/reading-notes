@@ -1,14 +1,52 @@
 
-HTML:
-Introduction
+# **HTML Introduction**
+
+## HTML Describes the Structure of Pages 
+
+***
+
+### We add code to the words we want to appear on the page.
+
+***
+
+# ______[ HTML Elements ]
+
+- Made up of characters that live inside angled brackets 
+- Elements are usually
+made up of two tags
+
+- Tags act like containers. They tell you
+something about what lies
+between their opening and closing tags.
 
 
-Structure
+# ______[ HTML Attributes ]
 
-Extra Markup
+- Provide additional information
+about the contents of an element.
+- Appear on the opening tag of the element 
+- Made up of two parts: a **name** and a **value**,
+separated by **(=) sign** 
 
+<br>
 
+![](a1.PNG)
 
+# ______[ HTML structure ]
+
+## Inside `<body>` element lies the visable content of the webpage 
+
+<br>
+
+## Inside `<head>` element is information information about the page 
+
+<br> 
+<br>
+
+![](a2.PNG)
+
+<br> 
+<br>
 
 # HTML5 Layout
 
@@ -51,6 +89,9 @@ The new elements provide clearer code .
 elements need to be told which elements are
 block-level elements
 
+![](download.png)
+
+<br>
 
 # Process & Design
 
@@ -85,17 +126,17 @@ they see. It is created by adding visual contrast between the items being
 displayed. Items with higher contrast are recognized and processed first.
 
 
+<br>
+<br>
+
+# --------------------------------
 
 
 
 
 
+# JavaScript
 
-JavaScript
-
-Introduction
-
-The ABC of Programming
 
 # What is a script?
 
