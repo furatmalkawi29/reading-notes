@@ -1,9 +1,15 @@
-<div  style="font-size:130px; background-color:pink; text-align:center;"> <h1> <b> FURAT READING NOTES </b> </h1> </div>
+<div  style="font-size:130px; background-color:pink; text-align:center;"> <h1> <br><br> <b> FURAT READING NOTES </b> <br><br> </h1> </div>
+
 <p><br></p>
-Biomedical Informatics Engineering Graduate . Interested in IT field and Web applications 
+
+# Biomedical Informatics Engineering Graduate . Interested in IT field and Web applications 
+
 <p><br></p>
 ![](https://i.pinimg.com/originals/b5/20/ce/b520ce3ebb3e42f423255efc9ab2d13f.png)
                           
+ <div  style="font-size:130px; background-color:pink; text-align:center;"> <h1> <br><br> <b> 102 NOTES </b> <br><br> </h1> </div>
+
+<br>                         
 
 | Reads     | Date        | Link        |
 | :-------- |:-----------: |:----------: |
@@ -17,3 +23,14 @@ Biomedical Informatics Engineering Graduate . Interested in IT field and Web app
 | ***Read: 05 - Operators and Loops*** | *8-Feburay* | [**Book summery**](https://furatmalkawi29.github.io/reading-notes/lab05) |
 | ***Read: 06b - Design web pages with CSS*** | *9-Feburay* | [**Book summery**](https://furatmalkawi29.github.io/reading-notes/lab06b) |
 | ***Read: 06a - Functions*** | *9-Feburay* | [**Book summery**](https://furatmalkawi29.github.io/reading-notes/func) |
+
+
+
+ <div  style="font-size:130px; background-color:pink; text-align:center;"> <h1> <br><br> <b> 201 NOTES </b> <br><br> </h1> </div>
+
+<br> 
+
+
+| Reads     | Date        | Link        |
+| :-------- |:-----------: |:----------: |
+| ***Read: 01 - Introductory HTML and JavaScript*** | *14-Feburay* | [**Duckett HTML Book: (CH 1,8,17,18)**](https://furatmalkawi29.github.io/reading-notes/func) |
