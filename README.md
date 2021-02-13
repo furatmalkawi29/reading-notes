@@ -1,4 +1,4 @@
-<div align=center; style="font-size:130px; background-color:pink;"> <h1> <b> FURAT READING NOTES </b> </h1> </div>
+<div  style="font-size:130px; background-color:pink; text-align:center;"> <h1> <b> FURAT READING NOTES </b> </h1> </div>
 <p><br></p>
 Biomedical Informatics Engineering Graduate . Interested in IT field and Web applications 
 <p><br></p>
