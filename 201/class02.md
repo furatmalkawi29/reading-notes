@@ -356,7 +356,93 @@ text)
 
 
 
+<div  style="font-size:160px; background-color:pink; text-align:center;"> <h1> <br><b> JavaScript</b> <br><br> </h1> </div> 
+
+
+# What is a script?
+
+* A script is a series of instructions that a computer can follow step-by-step to achieve a goal. 
+
+* You could compare scripts to : RECIPES , HANDBOOKS, MANUALS .
+
+
+![recipe](rec.jpg)
+
+
+# How do I creat a Script?
+
+<br>
+
+## 1: DEFINE THE GOAL
+
+To write a script, you need to first state your goal and then list the tasks that need to be completed in order to achieve it. 
+
+## 2: DESIGN THE SCRIPT
+
+You can use flowcharts to work out how the tasks fit together. The flowcharts show the paths between each step.
+
+<br>
+
+![](img1.PNG)
+
+3: CODE EACH STEP
+
+<br> <br>
+
+# EXPRESSIONS
+
+  An expression results in a single value. There are two types of expressions:
+  <br>
+
+### 1.EXPRESSIONS THAT JUST ASSIGN A VALUE TO A VARIABLE: 
+
+<br>
+
+`var color = 'beige' ;`
+
+
+### 2.EXPRESSIONS THAT USE TWO OR MORE VALUES TO RETURN A SINGLE VALUE:
+
+<br>
+
+`var area = 3 * 2;`
+
+# OPERATORS 
+Expressions rely on operators to calculate a value.
+
+<br>
+
+### 1.ASSIGNMENT OPERATORS
+
+`color = 'beige';`
+
+### 2.ARITHMETIC OPERATORS
+
+`area = 3 * 2;`
+
+### 3.STRING OPERATORS
+
+`greeting= 'Hi 1' + 'Mol ly'`
+
+### 4.COMPARISON OPERATORS
+
+`buy = 3 > 5;`
+
+### 5.LOGICAL OPERATORS
+
+`buy= (5 > 3) && (4>2);`
+
+<br><br>
 
 
 
 
+
+## SWITCH STATEMENTS
+
+A switch statement starts with a
+variable called the switch value.
+Each case indicates a possible
+value for this variable and the
+code that should run if the
+variable matches that value. 
