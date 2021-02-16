@@ -97,7 +97,8 @@ with different-sized screens.
 browser what to do if the content
 contained within a box is larger
 than the box itself. It can have
-one of two values:
+one of two values
+
 * hidden 
 
 * scroll
