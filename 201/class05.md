@@ -300,4 +300,9 @@ links that have been clicked on.
 
 *  Use GIF format for images that contain animations.
 
+<br>
 
+![](https://miro.medium.com/max/400/1*ON0B-_gy1JK0YbGBOqkB6A.png)
+
+
+![](https://helpdeskgeek.com/wp-content/pictures/2009/05/gif-png-jpg.png)
