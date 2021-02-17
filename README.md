@@ -39,4 +39,4 @@
 | ***Read: 01 - Introductory HTML and JavaScript*** | *14-Feburay* | [**Duckett HTML Book: (CH 1,8,17,18)**](https://furatmalkawi29.github.io/reading-notes/201/class01) |
 | ***Read: 02 - HTML Text, CSS Introduction, and Basic JavaScript Instructions*** | *15-Feburay* | [**Book summery**](https://furatmalkawi29.github.io/reading-notes/201/class02) |
 | ***Read: 03 - HTML Lists, CSS Boxes, JS Control Flow*** | *15-Feburay* | [**Duckett HTML Book: (CH 1,8,17,18)****Book summery**](https://furatmalkawi29.github.io/reading-notes/201/class03) |
-| ***Read: 04 - HTML Links, CSS Layout, JS Functions*** | *16-Feburay* | [**Book summery**](https://furatmalkawi29.github.io/reading-notes/201/class03) |
+| ***Read: 04 - HTML Links, CSS Layout, JS Functions*** | *16-Feburay* | [**Book summery**](https://furatmalkawi29.github.io/reading-notes/201/class04) |
