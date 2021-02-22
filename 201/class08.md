@@ -1,171 +1,180 @@
+# Layout
 
 
-# HTML5 Layout
-
-# ___________________
-
-# Layouts
-
-# Key Concepts in Positioning Elements
-
-  ## 1.Building Blocks
-CSS treats each HTML element as if it is in its
-own box. This box will either be a block-level
-box or an inline box.
-
-## 2.Containing Elements
-If one block-level element sits inside another
-block-level element then the outer box is
-known as the containing or parent element
+ # [Positioning Elements]
 
 
-# Controlling the Position of Elements
-
-CSS has the following positioning schemes that allow you to control
-the layout of a page:
-
-1. normal flow 
-2. relative positioning 
-3. absolute positioning. 
-
-You specify the positioning scheme using the position
-property in CSS. You can also float elements using the float property.
-
-![](d3.PNG)
+- CSS treats each HTML element as if it is in its
+own box. 
 
 
 
-To indicate where a box should be positioned, you may also need to use
-box offset properties to tell the browser how far from the top or bottom
-and left or right it should be placed. 
+1. Block-level elements
+
+- start on a new line
+
+- Examples include:
+`<h1> <p> <ul> <li>`
+
+
+2. Inline elements
+
+- flow in between
+surrounding text
+
+- Examples include:
+`<img> <b> <i>`
+
+
+
+<br><hr>
+
+
+# [Containing Elements]
+
+- If one block-level element sits inside another
+block-level element, the outer box is
+known as the containing or parent element.
+
+
+- like if `<div>` element used as a header, it will contain the logo , the nav bar , website name .
+
+
+
+<br><hr>
+
+
+# [positioning schemes]
+
+using :
+
+- float property.
+- position property .
+
+
+- position property
+
+1. Normal flow
+
+- The default behavior of block-level elements 
+
+- appear one after the other, vertically down
+the page.
+
+1. Relative Positioning
+
+- moves element with reference to 
+**its normal flow**  .
+
+
+1. Absolute positioning
+
+- moves element with reference to **its container element** .
+
+- elements around it behave as if it doesnt exist .
+
+- moves with scrolling 
 
 1. Fixed Positioning 
 
+- moves element with reference to **browser window** .
 
-2. Floating Elements
+- type of absolute positioning
+
+- doesnt move with scrolling 
 
 
-When you move
-any element from
-normal flow, boxes
-can overlap. The
+5. Floating Elements
+
+- position elemebt to the far left or right of a
+containing box. 
+
+- other elements flow around it .
+
+
+<br><hr>
+
+
+
 z-index property
-allows you to control
-which box appears
-on top
+- boxes overlap. 
+- control which box appears on top.
 
 
-# Screen Sizes 
 
-Different visitors to your site will have different sized screens that show
-different amounts of information, so your design needs to be able to
-work on a range of different sized screens.
+<br><hr>
 
 
-When designing for print, you
-always know the size of the
-piece of paper that your design
-will be printed on. However,
-when it comes to designing for
-the web, you are faced with the
-unique challenge that different
-users will have different sized
-screens. 
+
+# [Screen Sizes]
 
 
-![](d4.PNG)
+- Different visitors to your site will have different sized screens .
 
-# Fixed Width Layouts 
-Fixed width layout
-designs do not
+
+<br><hr>
+
+
+# [Screen Resolution]
+
+- number of dots a screen shows per inch.
+
+- adjustable on os .
+
+- higher the resolution, the
+smaller the text appears. 
+
+- mobile screens have higher resolution 
+
+
+<br><hr>
+
+
+
+- [Page Sizes]
+
+- optimal page size is : 960-1000 pixels wide ( based on resolution and screen size now)
+
+- **being “above the fold"** : The area that users
+would see without scrolling down .
+
+- users judge if he want to scroll down or not based on this area .
+
+- top 600 pixels of a page .
+
+![](c2.PNG)
+
+
+
+<br><hr>
+
+ 
+
+# [Fixed and liquid Width Layouts]
+
+- Fixed width layouts :
+
+  - do not
 change size as the
 user increases
 or decreases
 the size of their
 browser window.
-Measurements tend
-to be given in pixels
 
-# Liquid layout
-Liquid layout designs
+  - Measurements tend
+to be given in pixels.
+
+
+
+- Liquid width layout:
+
+  - designs
 stretch and contract
 as the user increases
 or decreases the
 size of their browser
-window. They tend to
+window. 
+  - They tend to
 use percentages.
-<br><br>
-<br><br>
-
-
-# Traditional Vs New HTML Layouts
-
-1. Traditional :
-used `<div>` elements
-
-2. New: HTML5 introduces a new elements 
-
-
-# Some of HTML5 New Layout Elements:
-
-## 1.Headers & Footers 
-
-`<header> <footer>`
-
-## 2.Navigation
-
-`<nav>`
-
-## 3.Articles
-
-`<article>`
-
-## 4. Asides
-
-`<aside>`
-
-## 5.Sections
-`<section>`
-
-# HTML5 elements :
-
-The new elements provide clearer code .
- Older browsers that do not understand HTML5
-elements need to be told which elements are
-block-level elements
-
-
-# Process & Design
-
-## Some important tools:
-
-# __________________
-
-# 1.Who visits your website?
-
-
-The tool used to track what kind of visitors are coming to the website because They can influence design decisions from color
-palettes to level of detail in descriptions.
-
-
-# 2. Site Maps
-
-* What needs to appear
-on the site, you can start to organize the
-information into sections or pages.
-
-# 3. WireFrames
-
-A wireframe is a simple sketch of the key
-information that needs to go on each page of a
-site. It shows the hierarchy of the information
-and how much space it might require.
-
-# Visual hierarchy
-
-Visual hierarchy refers to the order in which your eyes perceive what
-they see. It is created by adding visual contrast between the items being
-displayed. Items with higher contrast are recognized and processed first.
-
 
 
