@@ -1,13 +1,9 @@
 # Layout
 
-
- # [Positioning Elements]
-
+## [Positioning Elements]
 
 - CSS treats each HTML element as if it is in its
-own box. 
-
-
+own box.
 
 1. Block-level elements
 
@@ -15,7 +11,6 @@ own box.
 
 - Examples include:
 `<h1> <p> <ul> <li>`
-
 
 2. Inline elements
 
@@ -25,10 +20,7 @@ surrounding text
 - Examples include:
 `<img> <b> <i>`
 
-
-
-<br><hr>
-
+### --------------------------------
 
 # [Containing Elements]
 
@@ -36,13 +28,9 @@ surrounding text
 block-level element, the outer box is
 known as the containing or parent element.
 
-
 - like if `<div>` element used as a header, it will contain the logo , the nav bar , website name .
 
-
-
-<br><hr>
-
+### --------------------------------
 
 # [positioning schemes]
 
@@ -51,21 +39,19 @@ using :
 - float property.
 - position property .
 
-
 - position property
 
 1. Normal flow
 
-- The default behavior of block-level elements 
+- The default behavior of block-level elements
 
 - appear one after the other, vertically down
 the page.
 
 1. Relative Positioning
 
-- moves element with reference to 
+- moves element with reference to
 **its normal flow**  .
-
 
 1. Absolute positioning
 
@@ -73,47 +59,37 @@ the page.
 
 - elements around it behave as if it doesnt exist .
 
-- moves with scrolling 
+- moves with scrolling
 
-1. Fixed Positioning 
+1. Fixed Positioning
 
 - moves element with reference to **browser window** .
 
 - type of absolute positioning
 
-- doesnt move with scrolling 
-
+- doesnt move with scrolling
 
 5. Floating Elements
 
 - position elemebt to the far left or right of a
-containing box. 
+containing box.
 
 - other elements flow around it .
 
-
-<br><hr>
-
-
+### --------------------------------
 
 z-index property
-- boxes overlap. 
+
+- boxes overlap.
 - control which box appears on top.
 
-
-
-<br><hr>
-
-
+### --------------------------------
 
 # [Screen Sizes]
 
-
 - Different visitors to your site will have different sized screens .
 
-
-<br><hr>
-
+### --------------------------------
 
 # [Screen Resolution]
 
@@ -122,14 +98,11 @@ z-index property
 - adjustable on os .
 
 - higher the resolution, the
-smaller the text appears. 
+smaller the text appears.
 
-- mobile screens have higher resolution 
+- mobile screens have higher resolution
 
-
-<br><hr>
-
-
+### --------------------------------
 
 - [Page Sizes]
 
@@ -144,11 +117,7 @@ would see without scrolling down .
 
 ![](c2.PNG)
 
-
-
-<br><hr>
-
- 
+### --------------------------------
 
 # [Fixed and liquid Width Layouts]
 
@@ -164,8 +133,6 @@ browser window.
   - Measurements tend
 to be given in pixels.
 
-
-
 - Liquid width layout:
 
   - designs
@@ -173,8 +140,6 @@ stretch and contract
 as the user increases
 or decreases the
 size of their browser
-window. 
+window.
   - They tend to
 use percentages.
-
-
