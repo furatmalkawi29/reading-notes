@@ -9,7 +9,8 @@
 
 # How to make Table in HTML?
 
-# `<table>` 
+ `<table>` 
+ 
 <br>
 
 The `<table>` element is used
