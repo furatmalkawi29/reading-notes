@@ -17,7 +17,7 @@ to create a table.
 
 <br>
 
-# `<tr>`
+ `<tr>`
 
 The contents
 of the table are written out row
@@ -28,7 +28,7 @@ row using the opening `<tr>` tag.
 
 <br>
 
-# `<td>`
+`<td>`
 
 It is followed by one or more
 `<td>` elements (one for each cell
@@ -46,7 +46,7 @@ closing `</td>` tag.
 
 <br>
 
-# `<th>`
+`<th>`
 
 The `<th>` element is used just
 like the `<td>` element but its
