@@ -42,3 +42,4 @@
 | ***Read: 04 - HTML Links, CSS Layout, JS Functions*** | *16-Feburay* | [**Book summery**](https://furatmalkawi29.github.io/reading-notes/201/class04) |
 | ***Read: 05 - HTML Images; CSS Color & Text*** | *17-Feburay* | [**Book summery**](https://furatmalkawi29.github.io/reading-notes/201/class05) |
 | ***Read: 07 - HTML Tables; JS Constructor Functions*** | *22-Feburay* | [**Book summery**](https://furatmalkawi29.github.io/reading-notes/201/class07) |
+| ***Read: 08 - More CSS Layout*** | *23-Feburay* | [**Book summery**](https://furatmalkawi29.github.io/reading-notes/201/class08) |
