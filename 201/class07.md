@@ -9,7 +9,8 @@
 
 # How to make Table in HTML?
 
-# `<table>` <br>
+# `<table>` 
+<br>
 
 The `<table>` element is used
 to create a table.
@@ -17,6 +18,7 @@ to create a table.
 <br>
 
 # `<tr>`
+
 The contents
 of the table are written out row
 by row. `<tr>`
@@ -34,6 +36,7 @@ in that row).
 At the end of the row you use a
 closing `</tr>` tag.
 `<td>`
+
 Each cell of a table is
 represented using a `<td>`
 element. (The td stands for
@@ -44,6 +47,7 @@ closing `</td>` tag.
 <br>
 
 # `<th>`
+
 The `<th>` element is used just
 like the `<td>` element but its
 purpose is to represent the
