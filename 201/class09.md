@@ -57,3 +57,41 @@ browser window
 1. Screen 
 2. Page 
 3. Client 
+
+
+# Forms 
+
+
+# Form Controls
+
+- ADDING TEXT :
+Text (single-line), Password , Text area (multi-line)
+
+- Making Choices:
+Radio buttons , Checkboxes , Drop-down boxes 
+
+- Submitting Forms:
+Submit buttons , Image buttons
+
+-  Uploading Files:
+File upload
+
+
+
+
+# How Forms Work
+
+A user fills in a form and then presses a button
+to submit the information to the server where its going to be processed or saved, and send a new response page .
+
+![](https://image.slidesharecdn.com/makingwebformsusingphp-121008233604-phpapp01/95/making-web-forms-using-php-2-728.jpg?cb=1349739411)
+
+
+- information
+is sent from the browser to the server using name/value pairs. 
+
+- inputname = value 
+- user_name = 'Furat' 
+
+
+
