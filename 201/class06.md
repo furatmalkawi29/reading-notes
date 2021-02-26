@@ -42,14 +42,14 @@ method --> function
 ## Litral Notation 
 - one of the ways to create an object (Constructor notation is another way)
 
-![](/r2.PNG) ****************************
-
+![](/r2.PNG) 
 
 ## Accessing Object 
 
 ### 1. Dot Notation
 - Accessing properties /methods 
 - **Example:** 
+
 ```
 hotel.name;
 
@@ -61,6 +61,7 @@ hotel.checkAvailability ( );
 - used when property name is a number 
 
 - **Example:** 
+
 ```
 hotel.['name'];
 
@@ -117,6 +118,7 @@ stored in seprate text node.
 
  getElemnetByClassName ();
 ```
+
 ### Catching DOM Query 
 
 - `getElementById ();` **gets reference of element** , not the element itself .
@@ -148,6 +150,7 @@ They have same syntax .
 <br>
 
 - Syntax: 
+
 ```
 document.getElementById('one').innerHtml = 'Hello <b>World</b>' ;
 ```
@@ -191,6 +194,7 @@ deletedElement = document.getElementByID('tr5');
 ```
 
 2. Find the Parent of the Element Node that you want to delete 
+
 ```
 parentElement = document.getElementByID('table1');
 ```
