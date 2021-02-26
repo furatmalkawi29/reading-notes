@@ -58,7 +58,11 @@ heading.)
 
 <br>
 
-# You can make cells of a table span more than one row or column using the rowspan and colspan attributes.
+
+
+
+
+
 
 ![](https://res.cloudinary.com/practicaldev/image/fetch/s--Zhu5E2Bm--/c_imagga_scale,f_auto,fl_progressive,h_900,q_auto,w_1600/https://dev-to-uploads.s3.amazonaws.com/i/02lxssgxrwv7ywp2lhix.jpg)
 

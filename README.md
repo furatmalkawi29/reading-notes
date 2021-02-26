@@ -41,6 +41,9 @@
 | ***Read: 03 - HTML Lists, CSS Boxes, JS Control Flow*** | *15-Feburay* | [**Duckett HTML Book: (CH 1,8,17,18)****Book summery**](https://furatmalkawi29.github.io/reading-notes/201/class03) |
 | ***Read: 04 - HTML Links, CSS Layout, JS Functions*** | *16-Feburay* | [**Book summery**](https://furatmalkawi29.github.io/reading-notes/201/class04) |
 | ***Read: 05 - HTML Images; CSS Color & Text*** | *17-Feburay* | [**Book summery**](https://furatmalkawi29.github.io/reading-notes/201/class05) |
+
+| ***Read: 06 - JS Object Literals; The DOM*** | *22-Feburay* | [**Book summery**](https://furatmalkawi29.github.io/reading-notes/201/class06) |
+
 | ***Read: 07 - HTML Tables; JS Constructor Functions*** | *22-Feburay* | [**Book summery**](https://furatmalkawi29.github.io/reading-notes/201/class07) |
 | ***Read: 08 - More CSS Layout*** | *23-Feburay* | [**Book summery**](https://furatmalkawi29.github.io/reading-notes/201/class08) |
 | ***Read: 09 - Events and Forms*** | *24-Feburay* | [**Book summery**](https://furatmalkawi29.github.io/reading-notes/201/class09) |
