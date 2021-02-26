@@ -42,7 +42,7 @@ method --> function
 ## Litral Notation 
 - one of the ways to create an object (Constructor notation is another way)
 
-![](r7.PNG) 
+![](/201/r7.png) 
 
 ## Accessing Object 
 
@@ -105,7 +105,7 @@ hotel.['name'];
 stored in seprate text node. 
 - Text nodes **cannot have children.**
 
-![](r6.PNG) 
+![](/201/r6.png) 
 
 ##  DOM queries
 
@@ -162,7 +162,7 @@ document.getElementById('one').innerHtml = 'Hello <b>World</b>' ;
 ### 2. DOM Manipulaton (slow, safe)
 ### Uses multiple steps and a method for each step .
 
-![](r5.PNG) 
+![](/201/r5.png) 
 
 
 1. Create New Element Node .
