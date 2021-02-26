@@ -7,13 +7,8 @@
 
 - it **models things  from the real world** : students , employees , shop branches 
 
-- in objects :
-  -  Variables  named as : **Properties**
-  - Function named as : **Methods**
 
-
-
-
+![](https://www.pngkit.com/png/detail/118-1189654_college-students-college-student-illustration-png.png)
 
 *** 
 ***
@@ -21,6 +16,11 @@
 ## Properties and methods?
 
 <br>
+
+- in objects :
+  -  Variables  named as : **Properties**
+  - Function named as : **Methods**
+
 
 - **Properties** tell us information about the object .
 - **Methods** perform tasks associated with the object . 
@@ -42,7 +42,7 @@ method --> function
 ## Litral Notation 
 - one of the ways to create an object (Constructor notation is another way)
 
-![](/r2.PNG) 
+![](r7.PNG) 
 
 ## Accessing Object 
 
@@ -105,11 +105,11 @@ hotel.['name'];
 stored in seprate text node. 
 - Text nodes **cannot have children.**
 
-![](r3.PNG) 
+![](r6.PNG) 
 
 ##  DOM queries
 
-### methods that **finds elemnts in DOM tree** (access elemnts)
+### - methods that **finds elemnts in DOM tree** (access elemnts)
 
 ### Example: 
 
@@ -118,6 +118,10 @@ stored in seprate text node.
 
  getElemnetByClassName ();
 ```
+
+### - Whenever a DOM query can return more than one node, it will always **return a Nadel list**. 
+
+***
 
 ### Catching DOM Query 
 
@@ -157,6 +161,9 @@ document.getElementById('one').innerHtml = 'Hello <b>World</b>' ;
 
 ### 2. DOM Manipulaton (slow, safe)
 ### Uses multiple steps and a method for each step .
+
+![](r5.PNG) 
+
 
 1. Create New Element Node .
 
@@ -209,11 +216,22 @@ parentElement.removeChild(deletedElement);
 
 *** 
 
+## Attribute Node 
 
+### Working on Elements Attribute done using multiple methods :
 
+### 1. hasAttribute( )
+  
+  Checks if the element has a certain attribute or not .
 
+### 2. getAttribute ( )
 
+Returns the value of a certain attribute 
 
-<br><br><br><br><br><br><br><br>
-<br><br>
+### 3. setAttribute ( )
 
+Creats an attribute for the element (if it didnt exist) and sets a value to it .
+
+### 4. removeAttribute ( )
+
+Removes attribute 
