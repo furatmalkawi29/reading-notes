@@ -48,4 +48,5 @@
 | ***Read: 08 - More CSS Layout*** | *23-Feburay* | [**Book summery**](https://furatmalkawi29.github.io/reading-notes/201/class08) |
 | ***Read: 09 - Events and Forms*** | *24-Feburay* | [**Book summery**](https://furatmalkawi29.github.io/reading-notes/201/class09) |
 | ***Read: 10 - Debugging*** |  *25-Feburay* | [**Book summery**](https://furatmalkawi29.github.io/reading-notes/201/class10) |
-| ***Read: 11 - Assorted Topics*** |  *25-Feburay* | [**Book summery**](https://furatmalkawi29.github.io/reading-notes/201a/class11) |
+| ***Read: 11 - Assorted Topics*** |  *27-Feburay* | [**Book summery**](https://furatmalkawi29.github.io/reading-notes/201a/class11) |
+| ***Read: 12 - Docs for the HTML <canvas> Element & Chart.js*** |  *28-Feburay* | [**Book summery**](https://furatmalkawi29.github.io/reading-notes/201a/class12) |
