@@ -44,5 +44,73 @@ The text between the `<video>` and `</video>` tags will only be displayed in bro
 
 - Example : play() , pause() , load() .
 
+<br>
+
+
+# Practical Information 
+
+## - Search engine optimization (SEO)
+Methods used to improve page
+rating in search engines.
+
+1. On-Page Techniques:
+
+- Adding the keywords that people
+are likely to enter into a search
+engine in HTML code 
+
+<br>
+
+1. Off-Page Techniques:
+- Getting other sites to link to you
+- Search engines look at the
+text between `<a>` tag if it was related .
+
+
+## - Using analytics to understand visitors
+
+- **Google Analytics** tool.
+- Learning about site users :
+- Tracking thier trip on the page .
+- Tells you how many people are
+coming to your site.
+- Tells you what the visitors are
+looking at when they come to your site.
+- Learn where your visitors are
+coming from.
+
+
+## - Putting your site on the web
+
+In order to put your site on the web you will
+need a domain name and web hosting.
+
+**Domain name**
+
+- Your domain name is your web
+address (e.g. google.com or bbc.
+co.uk)
+
+- pay an annual fee to keep that
+domain name.
+
+**Web hosting**
+
+-Upload website to a web server, so that other people can see it .
+
+- **Web servers** : special computers that are
+constantly connected to the
+Internet. They are set
+up to serve web pages when
+they are requested .
+
+- **key things to choose hosting company** :
+1. Disk space
+2. Bandwidth
+3. Backups
+4. Email accounts
+5. Server-side
+languages and
+databases
 
 
