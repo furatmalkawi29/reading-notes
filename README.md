@@ -51,3 +51,15 @@
 | ***Read: 11 - Assorted Topics*** |  *27-Feburay* | [**Book summery**](https://furatmalkawi29.github.io/reading-notes/201a/class11) |
 
 |**Read: 12 - canvas Element & Chart.js** |  *28-Feburay* | [**Book summery**](https://furatmalkawi29.github.io/reading-notes/201a/class12) |
+
+
+
+<div  style="font-size:160px; background-color:pink; text-align:center;"> <h1> <br><b> 301 NOTES </b> <br><br> </h1> </div>
+
+<br> 
+
+
+| Reads     | Date        | Link        |
+| :-------- |:-----------: |:----------: |
+|**Read: 01 - ** |  *28-March* | [**Book summery**]() |
+
