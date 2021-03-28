@@ -1,7 +1,7 @@
 
 
 
-<div  style="font-size:160px; background-color:pink; text-align:center;"> <h1><br> <b> FURAT READING NOTES </b> <br><br> </h1> </div>
+<div  style="font-size:160px; background-color:gray; text-align:center;"> <h1><br> <b> FURAT READING NOTES </b> <br><br> </h1> </div>
 
 <p><br></p>
 
@@ -10,7 +10,7 @@
 <p><br></p>
 ![](https://i.pinimg.com/originals/b5/20/ce/b520ce3ebb3e42f423255efc9ab2d13f.png)
                           
- <div  style="font-size:160px; background-color:pink; text-align:center;"> <h1> <br><b> 102 NOTES </b> <br><br> </h1> </div>
+ <div  style="font-size:160px; background-color:gray; text-align:center;"> <h1> <br><b> 102 NOTES </b> <br><br> </h1> </div>
 
 <br>                         
 
@@ -29,7 +29,7 @@
 
 
 
- <div  style="font-size:160px; background-color:pink; text-align:center;"> <h1> <br><b> 201 NOTES </b> <br><br> </h1> </div>
+ <div  style="font-size:160px; background-color:gray; text-align:center;"> <h1> <br><b> 201 NOTES </b> <br><br> </h1> </div>
 
 <br> 
 
@@ -54,12 +54,12 @@
 
 
 
-<div  style="font-size:160px; background-color:pink; text-align:center;"> <h1> <br><b> 301 NOTES </b> <br><br> </h1> </div>
+<div  style="font-size:160px; background-color:gray; text-align:center;"> <h1> <br><b> 301 NOTES </b> <br><br> </h1> </div>
 
 <br> 
 
 
 | Reads     | Date        | Link        |
 | :-------- |:-----------: |:----------: |
-|**Read: 01 - ** |  *28-March* | [**Book summery**]() |
+|**Read: 01 -** |  *28-March* | [**Book summery**]() |
 
