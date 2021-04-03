@@ -61,11 +61,11 @@
 
 | Reads     | week        | Link        |
 | :-------- |:-----------: |:----------: |
-|**Read: 01 -** | *Week-1* | [**SMACSS and Responsive Web Design**](https://furatmalkawi29.github.io/reading-notes/301/class01.md) |
-|**Read: 02 -** | *Week-1* | [**jQuery, Events, and The DOM**](https://furatmalkawi29.github.io/reading-notes/301/class02.md) |
-|**Read: 03 -** | *Week-1* | [**Flexbox and Templating**](https://furatmalkawi29.github.io/reading-notes/301/class03.md) |
-|**Read: 04 -** | *Week-1* | [**Responsive Web Design and RegEx**](https://furatmalkawi29.github.io/reading-notes/301/class04.md) |
-|**Read: 05 -** | *Week-1* | [**Heroku Deployment**](https://furatmalkawi29.github.io/reading-notes/301/class05.md) |
+|**Read: 01 -** | *Week-1* | [**SMACSS and Responsive Web Design**](https://furatmalkawi29.github.io/reading-notes/301/class01) |
+|**Read: 02 -** | *Week-1* | [**jQuery, Events, and The DOM**](https://furatmalkawi29.github.io/reading-notes/301/class02) |
+|**Read: 03 -** | *Week-1* | [**Flexbox and Templating**](https://furatmalkawi29.github.io/reading-notes/301/class03) |
+|**Read: 04 -** | *Week-1* | [**Responsive Web Design and RegEx**](https://furatmalkawi29.github.io/reading-notes/301/class04) |
+|**Read: 05 -** | *Week-1* | [**Heroku Deployment**](https://furatmalkawi29.github.io/reading-notes/301/class05) |
 
 
 | :-------- |:-----------: |:----------: |
