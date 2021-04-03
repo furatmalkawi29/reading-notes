@@ -79,7 +79,10 @@
 ### When you start using jQuery, the effects methods can enhance your web page with transitions and movement. 
 
 ### 1. BASIC EFFECTS
+
+ ```
  show () , hide() ,toggle()
+ ```
 
 
  ### 2. FADING EFFECTS 
