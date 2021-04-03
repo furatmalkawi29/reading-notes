@@ -59,7 +59,25 @@
 <br> 
 
 
-| Reads     | Date        | Link        |
+| Reads     | week        | Link        |
 | :-------- |:-----------: |:----------: |
-|**Read: 01 -** |  *28-March* | [**Book summery**]() |
+|**Read: 01 -** | *Week-1* | [**SMACSS and Responsive Web Design**](https://furatmalkawi29.github.io/reading-notes/301/class01.md) |
+|**Read: 02 -** | *Week-1* | [**jQuery, Events, and The DOM**](https://furatmalkawi29.github.io/reading-notes/301/class02.md) |
+|**Read: 03 -** | *Week-1* | [**Flexbox and Templating**](https://furatmalkawi29.github.io/reading-notes/301/class03.md) |
+|**Read: 04 -** | *Week-1* | [**Responsive Web Design and RegEx**](https://furatmalkawi29.github.io/reading-notes/301/class04.md) |
+|**Read: 05 -** | *Week-1* | [**Heroku Deployment**](https://furatmalkawi29.github.io/reading-notes/301/class05.md) |
 
+
+| :-------- |:-----------: |:----------: |
+|**Read: 06 -** | *Week-2* | [****](https://furatmalkawi29.github.io/reading-notes/301/) |
+|**Read: 07 -** | *Week-2* | [****](https://furatmalkawi29.github.io/reading-notes/301/) |
+|**Read: 08 -** | *Week-2* | [****](https://furatmalkawi29.github.io/reading-notes/301/) |
+|**Read: 09 -** | *Week-2* | [****](https://furatmalkawi29.github.io/reading-notes/301/) |
+|**Read: 10 -** | *Week-2* | [****](https://furatmalkawi29.github.io/reading-notes/301/) |
+
+| :-------- |:-----------: |:----------: |
+|**Read: 11 -** | *Week-3* | [****](https://furatmalkawi29.github.io/reading-notes/301/) |
+|**Read: 12 -** | *Week-3* | [****](https://furatmalkawi29.github.io/reading-notes/301/) |
+|**Read: 13 -** | *Week-3* | [****](https://furatmalkawi29.github.io/reading-notes/301/) |
+|**Read: 14 -** | *Week-3* | [****](https://furatmalkawi29.github.io/reading-notes/301/) |
+|**Read: 15 -** | *Week-3* | [****](https://furatmalkawi29.github.io/reading-notes/301/) |
