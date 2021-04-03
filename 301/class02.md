@@ -83,14 +83,23 @@
 
 
  ### 2. FADING EFFECTS 
+
+ ```
  fadeln() , fadeout() , fadeTo()
+ ```
 
- ### 3. SLIDING EFFECTS  
+ ### 3. SLIDING EFFECTS 
+
+  ``` 
  slideUP() , slideDown() , slideToggle()
+ ```
 
 
-### 4. CUSTOM EFFECTS   
+### 4. CUSTOM EFFECTS  
+
+ ```
  delay() , stop() , animate()
+ ```
 
 <br><br>
 
