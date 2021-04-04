@@ -85,7 +85,7 @@
  ```
 
 
- ### 2. FADING EFFECTS 
+### 2. FADING EFFECTS 
 
  ```
  fadeln() , fadeout() , fadeTo()
