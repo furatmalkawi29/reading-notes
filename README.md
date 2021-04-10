@@ -70,8 +70,8 @@
 
 | :-------- |:-----------: |:----------: |
 |**Read: 06 -** | *Week-2* | [**Node, Express, and APIs**](https://furatmalkawi29.github.io/reading-notes/301/class06)   |
-|**Read: 07 -** | *Week-2* | [**RESTful APIs**](https://furatmalkawi29.github.io/reading-notes/301/) |
-|**Read: 08 -** | *Week-2* | [****](https://furatmalkawi29.github.io/reading-notes/301/) |
+|**Read: 07 -** | *Week-2* | [**RESTful APIs**](https://furatmalkawi29.github.io/reading-notes/301/class07) |
+|**Read: 08 -** | *Week-2* | [**SQL**](https://furatmalkawi29.github.io/reading-notes/301/class08) |
 |**Read: 09 -** | *Week-2* | [****](https://furatmalkawi29.github.io/reading-notes/301/) |
 |**Read: 10 -** | *Week-2* | [****](https://furatmalkawi29.github.io/reading-notes/301/) |
 
