@@ -14,7 +14,7 @@
 
 ## 1- Pure functions
 
-### - It returns the same result if given the same arguments . function is dependent from external global variables, all what it needs is passed as arguments . Makes the code  easier to test. 
+### - It returns the same result if given the same arguments , function is dependent from external global variables, all what it needs is passed as arguments . Makes the code  easier to test. 
 
 ## 2- Immutability
 
