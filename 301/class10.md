@@ -21,7 +21,7 @@ Defines the element as a grid container and establishes a new grid formatting co
 
 ### - Defines the columns and rows of the grid with a space-separated list of values. The values represent the track size, and the space between them represents the grid line.
 
-### - Values:
+### - Values :
 
 1. track-size – can be a length, a percentage, or a fraction of the free space in the grid (using the fr unit)
 
