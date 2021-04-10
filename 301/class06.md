@@ -52,7 +52,7 @@ npm install jshint
 
 ## 2) It speaks JSON . 
 
-### No need for reformating data while exchanging it between server-client sides .
+### No need for reformating data while exchanging it between server-client sides  ..
 
 <br>
 
