@@ -69,7 +69,7 @@
 
 
 | :-------- |:-----------: |:----------: |
-|**Read: 06 -** | *Week-2* | [****](https://furatmalkawi29.github.io/reading-notes/301/) |
+|**Read: 06 -** | *Week-2* | [**Node, Express, and APIs**](https://furatmalkawi29.github.io/reading-notes/301/class06) |
 |**Read: 07 -** | *Week-2* | [****](https://furatmalkawi29.github.io/reading-notes/301/) |
 |**Read: 08 -** | *Week-2* | [****](https://furatmalkawi29.github.io/reading-notes/301/) |
 |**Read: 09 -** | *Week-2* | [****](https://furatmalkawi29.github.io/reading-notes/301/) |
