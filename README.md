@@ -73,7 +73,7 @@
 |**Read: 07 -** | *Week-2* | [**RESTful APIs**](https://furatmalkawi29.github.io/reading-notes/301/class07) |
 |**Read: 08 -** | *Week-2* | [**SQL**](https://furatmalkawi29.github.io/reading-notes/301/class08) |
 |**Read: 09 -** | *Week-2* | [Functional Programming And Reafactoring**](https://furatmalkawi29.github.io/reading-notes/301/class09) |
-|**Read: 10 -** | *Week-2* | [** Deploy Your Blog to Heroku**](https://furatmalkawi29.github.io/reading-notes/301/class10) |
+|**Read: 10 -** | *Week-2* | [** **](https://furatmalkawi29.github.io/reading-notes/301/class10) |
 
 | :-------- |:-----------: |:----------: |
 |**Read: 11 -** | *Week-3* | [****](https://furatmalkawi29.github.io/reading-notes/301/) |
