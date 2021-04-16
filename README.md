@@ -81,4 +81,4 @@
 |**Read: 12 -** | *Week-3* | [****](https://furatmalkawi29.github.io/reading-notes/301/) |
 |**Read: 13 -** | *Week-3* | [****](https://furatmalkawi29.github.io/reading-notes/301/) |
 |**Read: 14 -** | *Week-3* | [****](https://furatmalkawi29.github.io/reading-notes/301/) |
-|**Read: 15 -** | *Week-3* | [****](https://furatmalkawi29.github.io/reading-notes/301/) |
+|**Read: 15 -** | *Week-3* | [**Diversity and inclusion**](https://furatmalkawi29.github.io/reading-notes/301/class15) |
