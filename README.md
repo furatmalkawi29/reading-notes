@@ -89,17 +89,17 @@
 | Reads     | week        | Link        |
 | :-------- |:-----------: |:----------: |
 |**Read: 00 -** | *Week-1* | [**Prepare Yourself for 401**](https://furatmalkawi29.github.io/reading-notes/401/prep) |
-|**Read: 01 -** | *Week-1* | [****](https://furatmalkawi29.github.io/reading-notes/401/class01) |
-|**Read: 02 -** | *Week-1* | [****](https://furatmalkawi29.github.io/reading-notes/401/class02) |
-|**Read: 03 -** | *Week-1* | [****](https://furatmalkawi29.github.io/reading-notes/401/class03) |
-|**Read: 04 -** | *Week-1* | [****](https://furatmalkawi29.github.io/reading-notes/401/class04) |
-|**Read: 05 -** | *Week-1* | [****](https://furatmalkawi29.github.io/reading-notes/401/class05) |
+|**Read: 01 -** | *Week-1* | <https://furatmalkawi29.github.io/reading-notes/401/class01> |
+|**Read: 02 -** | *Week-1* | <https://furatmalkawi29.github.io/reading-notes/401/class02> |
+|**Read: 03 -** | *Week-1* | <https://furatmalkawi29.github.io/reading-notes/401/class03> |
+|**Read: 04 -** | *Week-1* | <https://furatmalkawi29.github.io/reading-notes/401/class04> |
+|**Read: 05 -** | *Week-1* | <https://furatmalkawi29.github.io/reading-notes/401/class05> |
 
 
 
 | :-------- |:-----------: |:----------: |
-|**Read: 06 -** | *Week-2* | [****](https://furatmalkawi29.github.io/reading-notes/401/class06)   |
-|**Read: 07 -** | *Week-2* | [****](https://furatmalkawi29.github.io/reading-notes/401/class07) |
-|**Read: 08 -** | *Week-2* | [****](https://furatmalkawi29.github.io/reading-notes/401/class08) |
-|**Read: 09 -** | *Week-2* | [****](https://furatmalkawi29.github.io/reading-notes/401/class09) |
-|**Read: 10 -** | *Week-2* | [****](https://furatmalkawi29.github.io/reading-notes/401/class10) |
+|**Read: 06 -** | *Week-2* | <https://furatmalkawi29.github.io/reading-notes/401/class06>   |
+|**Read: 07 -** | *Week-2* | <https://furatmalkawi29.github.io/reading-notes/401/class07> |
+|**Read: 08 -** | *Week-2* | <https://furatmalkawi29.github.io/reading-notes/401/class08> |
+|**Read: 09 -** | *Week-2* | <https://furatmalkawi29.github.io/reading-notes/401/class09> |
+|**Read: 10 -** | *Week-2* | <https://furatmalkawi29.github.io/reading-notes/401/class10> |
