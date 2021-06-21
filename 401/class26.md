@@ -1,6 +1,6 @@
 # Review, Research, and Discussion
 
-1. Name 5 Javascript UI Frameworks (other than React)
+ Name 5 Javascript UI Frameworks (other than React)
 
 1. Ext JS
 2. Angular
